@@ -1,0 +1,8 @@
+x     = 261.5
+y     = 0.0
+z     = 185.0
+Roll  = 0.0
+Pitch = -90.0
+Yaw   = 0.0
+
+iv file in millimeters
